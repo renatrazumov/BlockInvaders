@@ -8,7 +8,7 @@
 ### Liquid Apps - Developers 
 - https://docs.liquidapps.io/en/v2.0/developers.html
 - Kylin Testnet Account
-    - kylin-account.html
+    - https://docs.liquidapps.io/en/v1.2/developers/kylin-account.html
 
 ### Liquid Apps - Zeus 
 - https://liquidapps.io/zeus
