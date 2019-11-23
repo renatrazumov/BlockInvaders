@@ -1,4 +1,3 @@
-[https://kylin.eosx.io/tools/account/create]
 http://faucet.cryptokylin.io/get_token/blockinvader
 
 ```bash
