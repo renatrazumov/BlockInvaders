@@ -8,7 +8,6 @@
 ### Liquid Apps - Developers 
 - https://docs.liquidapps.io/en/v2.0/developers.html
 - Kylin Testnet Account
-    - https://www.cryptokylin.io/
     - https://docs.liquidapps.io/en/v2.0/developers/kylin-account.html
 
 ### Liquid Apps - Zeus 
@@ -34,4 +33,22 @@
 ### Provided by the dApp Service Providers (DSPs)
 
 DSPs can now provide solutions for dApps' needs, including the most powerful oracle, IBC, storage, and scheduler solutions available, unlocking a wealth of functionality for dApps. As a DSP, you customize your service packages and have full autonomy over staking duration, pricing, and technical specifications.
+
+
+### Get started as a EOS dApp developer
+
+> CryptoKylin Testnet is for dApp developers who want to test their EOS smart contract before releasing to mainnet.
+
+1. Register an account
+Click here to register
+- https://www.cryptokylin.io/
+
+2. Get free token from faucet
+Use faucet to send free tokens
+
+3. Deploy your smart contract
+You know the cleos drill to upload smart contract
+
+4. Test and see it in action
+Send API calls to any endpoints here. CryptoKylin also comes with a block explorer that you can view all the activities.
 
