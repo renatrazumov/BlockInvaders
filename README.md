@@ -75,6 +75,8 @@ Send API calls to any endpoints here. CryptoKylin also comes with a block explor
 ### Kylin Block Explorer
 - https://kylin.eosx.io/#/tx
 
+
+### Creating Accounts on ZEUS-IDE
 ```bash
 # Create a new available account name (replace 'yourtestaccount' with your account name):
 export ACCOUNT=blockinvader
@@ -117,4 +119,3 @@ Build your own service that DSPs can offer on a free-market basis, and help crea
 - https://medium.com/the-liquidapps-blog/the-dapp-network-is-now-live-on-eos-db467f0dc2f
 - https://medium.com/the-liquidapps-blog/all-aboard-the-eos-train-its-free-dbc00d9b21f
 - https://medium.com/the-liquidapps-blog/vram-guide-for-experts-f809c8f82a27
-
