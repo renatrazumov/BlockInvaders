@@ -72,6 +72,9 @@ Send API calls to any endpoints here. CryptoKylin also comes with a block explor
 ### Kylin DAPP Token Faucet
 - https://kylin-dapp-faucet.liquidapps.io
 
+### Kylin Block Explorer
+- https://kylin.eosx.io/#/tx
+
 ```bash
 # Create a new available account name (replace 'yourtestaccount' with your account name):
 export ACCOUNT=blockinvaders
