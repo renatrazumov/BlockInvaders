@@ -74,7 +74,7 @@ Send API calls to any endpoints here. CryptoKylin also comes with a block explor
 
 ```bash
 # Create a new available account name (replace 'yourtestaccount' with your account name):
-export ACCOUNT=yourtestaccount
+export ACCOUNT=blockinvaders
 
 # Configure endpoint
 export DSP_ENDPOINT=https://kylin-dsp-1.liquidapps.io
