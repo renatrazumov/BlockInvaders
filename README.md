@@ -10,17 +10,23 @@
 - Kylin Testnet Account
     - https://docs.liquidapps.io/en/v2.0/developers/kylin-account.html
 
-### Liquid Apps - Zeus 
+### Liquid Apps - SDK
 - https://liquidapps.io/zeus
+- https://liquidapps.io/sdk
 - https://liquidapps.io/liquid-accounts
 - https://liquidapps.io/liquid-link
 - https://liquidapps.io/liquid-oracles
 
-### Liquid Apps - Repos
-- zeus-sdk 
-- zeus-ide
-- eos-contracts-best-practices
-- awesome-eosio-plugins
+### Zeus IDE
+
+> The Zeus IDE allows new developers to get up and running in mere minutes! It is based on Gitpod, a cloud-based tool for creating IDEs from git repos backed by Docker containers. All a you need to do is log in to Gitpod with your GitHub account and establish a new workspace based on the LiquidApps Zeus IDE GitHub repo.
+
+Behind the scenes, Gitpod executes the following:
+
+- Automatically installs the Docker image, which already contains EOSIO, Zeus and many other tools
+- Starts an EOSIO development node
+- Generates a basic starting point for a project (using the Zeus SDK)
+- Starts a LiquidApps development DSP
 
 ### Liquid Apps - vRam
 > Alternative & Compatible Storage Solution
