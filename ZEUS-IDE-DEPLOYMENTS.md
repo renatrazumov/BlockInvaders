@@ -62,8 +62,10 @@ gitpod /workspace/zeus-ide/dapp $ export ACTIVE_PUBLIC_KEY=`cat keys.json | jq -
 gitpod /workspace/zeus-ide/dapp $ cleos wallet import --private-key 5JebAwDdk9EhWbWJiLGuvnxzwjVmWaX7Ba65RLDfkFyQLwoUocQimported private key for: EOS8ZxHTfcT5BfMuyvJDhV6SyDAktQ3kmGSoPo2drdweAHJ88mogC
 ```
 ```bash
-gitpod /workspace/zeus-ide/dapp $ curl http://faucet-kylin.blockzone.net/get_token/$ACCOUNT                                      {"success":true,"data":{"account":"blockinvader","tx":"c83cc047dc52b1b92b4e8d388f1543ebf05d21f283bf6dd781a59991c69493f4"}}gitpod /workspace/zeus-ide/dapp $ curl http://faucet-kylin.blockzone.net/get_token/$ACCOUNT
-{"success":true,"data":{"account":"blockinvader","tx":"843c8a9bef62cccdd8d3448c1c5ace6cb2e23a2dba534110e1c48ced911f60e5"}}gitpod /workspace/zeus-ide/dapp $ cleos -u $DSP_ENDPOINT system buyram $ACCOUNT $ACCOUNT "100.0000 EOS" -p $ACCOUNT@active
+gitpod /workspace/zeus-ide/dapp $ curl http://faucet-kylin.blockzone.net/get_token/$ACCOUNT                                      {"success":true,"data":{"account":"blockinvader","tx":"c83cc047dc52b1b92b4e8d388f1543ebf05d21f283bf6dd781a59991c69493f4"}}
+gitpod /workspace/zeus-ide/dapp $ curl http://faucet-kylin.blockzone.net/get_token/$ACCOUNT
+{"success":true,"data":{"account":"blockinvader","tx":"843c8a9bef62cccdd8d3448c1c5ace6cb2e23a2dba534110e1c48ced911f60e5"}}
+gitpod /workspace/zeus-ide/dapp $ cleos -u $DSP_ENDPOINT system buyram $ACCOUNT $ACCOUNT "100.0000 EOS" -p $ACCOUNT@active
 executed transaction: 4373dad32672915cc9972154ca4b8900b852c02cf9e8c749d793f358a845be39  128 bytes  762 us
 #         eosio <= eosio::buyram                {"payer":"blockinvader","receiver":"blockinvader","quant":"100.0000 EOS"}
 #   eosio.token <= eosio.token::transfer        {"from":"blockinvader","to":"eosio.ram","quantity":"99.5000 EOS","memo":"buy ram"}
