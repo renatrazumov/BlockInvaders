@@ -1,0 +1,3 @@
+[submodule "zeus-dea"]
+	path = zeus-dea
+	url = https://github.com/liquidapps-io/zeus-ide.git
