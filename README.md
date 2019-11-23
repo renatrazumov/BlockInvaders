@@ -52,6 +52,7 @@ You know the cleos drill to upload smart contract
 Send API calls to any endpoints here. CryptoKylin also comes with a block explorer that you can view all the activities.
 
 ### Account 
+- https://docs.liquidapps.io/en/v2.0/developers/kylin-account.html
 
 ```bash
 # Create a new available account name (replace 'yourtestaccount' with your account name):
