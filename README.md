@@ -67,6 +67,10 @@ Send API calls to any endpoints here. CryptoKylin also comes with a block explor
 
 ### Create Kylin Testnet Account 
 - https://docs.liquidapps.io/en/v2.0/developers/kylin-account.html
+- https://kylin.eosx.io/tools/account/create
+
+### Kylin DAPP Token Faucet
+- https://kylin-dapp-faucet.liquidapps.io
 
 ```bash
 # Create a new available account name (replace 'yourtestaccount' with your account name):
@@ -91,9 +95,6 @@ curl http://faucet-kylin.blockzone.net/get_token/$ACCOUNT
 cleos -u $DSP_ENDPOINT system buyram $ACCOUNT $ACCOUNT "100.0000 EOS" -p $ACCOUNT@active
 cleos -u $DSP_ENDPOINT system delegatebw $ACCOUNT $ACCOUNT "20.0000 EOS" "80.0000 EOS" -p $ACCOUNT@active
 ```
-
-### Kylin DAPP Token Faucet
-- https://kylin-dapp-faucet.liquidapps.io
 
 ### Hackathon Themes
 ##### Decentralized Finance (DeFi)
