@@ -78,5 +78,5 @@ cleos -u $DSP_ENDPOINT system buyram $ACCOUNT $ACCOUNT "100.0000 EOS" -p $ACCOUN
 cleos -u $DSP_ENDPOINT system delegatebw $ACCOUNT $ACCOUNT "20.0000 EOS" "80.0000 EOS" -p $ACCOUNT@active
 ```
 
-### Create Kylin Testnet Account 
+### Kylin DAPP Token Faucet
 - https://kylin-dapp-faucet.liquidapps.io
