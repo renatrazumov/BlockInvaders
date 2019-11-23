@@ -51,7 +51,7 @@ You know the cleos drill to upload smart contract
 4. Test and see it in action
 Send API calls to any endpoints here. CryptoKylin also comes with a block explorer that you can view all the activities.
 
-### Account 
+### Create Kylin Testnet Account 
 - https://docs.liquidapps.io/en/v2.0/developers/kylin-account.html
 
 ```bash
