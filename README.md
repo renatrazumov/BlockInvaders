@@ -23,7 +23,7 @@
 - awesome-eosio-plugins
 
 ### Liquid Apps - vRam
-- Alternative & Compatible Storage Solution
+> Alternative & Compatible Storage Solution
 
 1. Integrate the vRAM Library into your dApp Smart Contract, allowing it to interact with the vRAM system.
 2. Select the service package/s that satisfy your data storage and access needs.
@@ -32,8 +32,7 @@
 
 ### Provided by the dApp Service Providers (DSPs)
 
-DSPs can now provide solutions for dApps' needs, including the most powerful oracle, IBC, storage, and scheduler solutions available, unlocking a wealth of functionality for dApps. As a DSP, you customize your service packages and have full autonomy over staking duration, pricing, and technical specifications.
-
+> DSPs can now provide solutions for dApps' needs, including the most powerful oracle, IBC, storage, and scheduler solutions available, unlocking a wealth of functionality for dApps. As a DSP, you customize your service packages and have full autonomy over staking duration, pricing, and technical specifications.
 
 ### Get started as a EOS dApp developer
 
@@ -51,4 +50,3 @@ You know the cleos drill to upload smart contract
 
 4. Test and see it in action
 Send API calls to any endpoints here. CryptoKylin also comes with a block explorer that you can view all the activities.
-
