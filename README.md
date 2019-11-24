@@ -1,6 +1,19 @@
-# BlockInvaders
+# BlockInvaders Project
 
 ## DAPPS Network - Hackathon 
+
+### Hackathon Themes
+##### Decentralized Finance (DeFi)
+For many enthusiasts, DeFi is attractive in that it promises to extend the utility of blockchain to various financial functions, such as derivatives markets, lending platforms, supply chains, and insurance contracts.
+Take part in making the financial system more transparent by building any DeFi-related dApp, product or service that harnesses at least two DAPP Network services.
+
+##### Decentralized Gaming
+Gaming has transformed from a youth pastime into a thriving industry. Blockchain technology can push the space even further by enabling the ownership of digital goods to flourish and expanding vibrant, interoperable gaming economies.
+Use at least two DAPP Network services to build any kind of game or game-related product, and play your part in the blockchain gaming revolution.
+
+##### Extending the DAPP Network’s Functionality
+vRAM; LiquidAccounts; LiquidOracles; vCPU; LiquidLink; and much more. So many powerful services are already running on the DAPP Network, and this is only the beginning. 
+Build your own service that DSPs can offer on a free-market basis, and help create new opportunities for developers building scalable dApps using the DAPP Network.
 
 ### Liquid Apps - Resources & Documentation
 https://docs.liquidapps.io/en/v2.0/
@@ -103,18 +116,6 @@ cleos -u $DSP_ENDPOINT system buyram $ACCOUNT $ACCOUNT "100.0000 EOS" -p $ACCOUN
 cleos -u $DSP_ENDPOINT system delegatebw $ACCOUNT $ACCOUNT "20.0000 EOS" "80.0000 EOS" -p $ACCOUNT@active
 ```
 
-### Hackathon Themes
-##### Decentralized Finance (DeFi)
-For many enthusiasts, DeFi is attractive in that it promises to extend the utility of blockchain to various financial functions, such as derivatives markets, lending platforms, supply chains, and insurance contracts.
-Take part in making the financial system more transparent by building any DeFi-related dApp, product or service that harnesses at least two DAPP Network services.
-
-##### Decentralized Gaming
-Gaming has transformed from a youth pastime into a thriving industry. Blockchain technology can push the space even further by enabling the ownership of digital goods to flourish and expanding vibrant, interoperable gaming economies.
-Use at least two DAPP Network services to build any kind of game or game-related product, and play your part in the blockchain gaming revolution.
-
-##### Extending the DAPP Network’s Functionality
-vRAM; LiquidAccounts; LiquidOracles; vCPU; LiquidLink; and much more. So many powerful services are already running on the DAPP Network, and this is only the beginning. 
-Build your own service that DSPs can offer on a free-market basis, and help create new opportunities for developers building scalable dApps using the DAPP Network.
 
 ### Resources & Articles 
 - https://medium.com/the-liquidapps-blog/the-dapp-network-just-added-powerful-new-features-for-eos-dapps-700bfc3e7bd6
