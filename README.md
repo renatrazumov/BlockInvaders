@@ -75,6 +75,8 @@ Send API calls to any endpoints here. CryptoKylin also comes with a block explor
 ### Kylin Block Explorer
 - https://kylin.eosx.io/#/tx
 
+### Kylin DAPP Token
+- https://kylin.eosx.io/tx/bf815b55b5ea355c1bc0c3f7b31a6f5d51ea53ae88624ad4380851f4975ef542?listView=traces
 
 ### Creating Accounts on ZEUS-IDE
 ```bash
